@@ -1,0 +1,39 @@
+/[Bb]uild/
+/[Bb]uilds/
+/Library/
+/[Ll]ogs/
+/[Oo]bj/
+/[MemoryCaptures]/
+/[Pa]ckages/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / VS Code cache and files
+.vs/
+.idea/
+.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+
+# Unity Auto-generated files and reports
+CrashReporting/
+Assets/Plugins/Editor/JetBrains*
+.plastic/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
